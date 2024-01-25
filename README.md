@@ -2,6 +2,11 @@
 
 This repository contains a very simple example demonstrating how to use the Temporal Java SDK in a Scala project.
 
+## Examples
+
+- [Hello World](/HelloWorld)
+- [PayloadConverter](/PayloadConverter)
+
 ## Requirements
 
 *(AKA What I had installed)*
