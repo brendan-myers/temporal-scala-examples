@@ -1,4 +1,4 @@
-# Temporal Scala Example
+# Temporal Scala Examples
 
 This repository contains a very simple example demonstrating how to use the Temporal Java SDK in a Scala project.
 
