@@ -6,6 +6,7 @@ This repository contains a very simple example demonstrating how to use the Temp
 
 - [Hello World](/HelloWorld)
 - [PayloadConverter](/PayloadConverter)
+- [Connect to Temporal Cloud](/Cloud)
 
 ## Requirements
 
